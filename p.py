@@ -1,1 +1,1 @@
-prueba de commit
+print("hello word")
